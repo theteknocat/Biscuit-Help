@@ -1,0 +1,35 @@
+#help-tabs {
+	margin: 0 0 1em;
+}
+#help-tabs ul.ui-tabs-nav li a,
+#help-tabs ul.ui-tabs-nav li a:visited {
+	color: #000 !important;
+	font-weight: bold !important;
+}
+#help-tabs div ul li {
+	margin: 0 0 1em !important;
+}
+#help-tabs div a,
+#help-tabs div a:visited {
+	color: #444 !important;
+	text-decoration: underline !important;
+}
+#help-tabs div a:hover {
+	color: #666 !important;
+	text-decoration: none !important;
+}
+#help-tabs p, #help-tabs h2, #help-tabs h3, #help-tabs h4, #help-tabs h5 {
+	color: #000 !important;
+}
+#help-tabs h2 {
+	font-size: 20px !important;
+}
+#help-tabs h3 {
+	font-size: 18px !important;
+}
+#help-tabs h4 {
+	font-size: 16px !important;
+}
+#help-tabs h5 {
+	font-size: 14px !important;
+}

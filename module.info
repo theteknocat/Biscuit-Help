@@ -1,0 +1,3 @@
+name = "Help"
+description = "Biscuit's built-in help system"
+version = "1.0"
